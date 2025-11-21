@@ -53,3 +53,12 @@ O código final se encontra no arquivo calculadora_rank.py.
 Python 3
 
 VS Code
+
+## Como usar
+
+1. Certifique-se de ter o Python instalado.
+2. Baixe o arquivo `calculadora_rank.py`.
+3. Execute o código com o comando:
+
+   ```bash
+   python .\calculadora_rank.py
