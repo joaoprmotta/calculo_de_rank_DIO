@@ -46,7 +46,7 @@ Sua diferença de vitórias e derrotas é 35. Seu rank é Ouro.
 
 ## Arquivo
 
-O código final se encontra no arquivo calculadora_rank.py (ou o nome que você usou).
+O código final se encontra no arquivo calculadora_rank.py.
 
 ## Tecnologias
 
